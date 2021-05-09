@@ -13,7 +13,7 @@
 .header-wraper {
     background-image: url(../images/banner.png);
     position: relative;
-    max-width: 1366px;
+    /* max-width: 1366px; */
     width: 100%;
     height: 324px;
     background-repeat: no-repeat;
